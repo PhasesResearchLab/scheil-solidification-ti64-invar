@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/237029581.svg)](https://zenodo.org/badge/latestdoi/237029581)
+
 ## Installing
 
 Follow the instructions for installing the `scheil` package in the [scheil documentation](http://scheil.readthedocs.io). Requires `scheil >= 0.1.2`.
