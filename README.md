@@ -23,3 +23,32 @@ The Fe-Ni-Ti parameters are taken from J. De Keyzer, G. Cacciamani, N. Dupin, P.
 The notebook will create (or update) the `results` directory with saved JSON data from the Scheil-Gulliver solidification simulations and the produced figures.
 If you want to reproduce the results from scratch, just remote the `results` directory.
 
+
+## Citing
+
+To cite this work, please cite the relevant version. The following DOI, [doi:10.5281/zenodo.3630599](https://doi.org/10.5281/zenodo.3630599), will link to the latest version of the code on Zenodo where you can cite the specific version that you haved used. For example, version 1.0 can be cited as:
+
+
+`Brandon Bocklund, Lourdes D. Bobbio, Richard A. Otis, Allison M. Beese, & Zi-Kui Liu. (2020, January 29). PhasesResearchLab/scheil-solidification-ti64-invar: 1.0 (Version 1.0). Zenodo. http://doi.org/10.5281/zenodo.3630600`
+
+```
+@software{brandon_bocklund_2020_3630600,
+  author       = {Brandon Bocklund and
+                  Lourdes D. Bobbio and
+                  Richard A. Otis and
+                  Allison M. Beese and
+                  Zi-Kui Liu},
+  title        = {{PhasesResearchLab/scheil-solidification-
+                   ti64-invar: 1.0}},
+  month        = jan,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {1.0},
+  doi          = {10.5281/zenodo.3630600},
+  url          = {https://doi.org/10.5281/zenodo.3630600}
+}
+```
+
+## License
+
+Code (`.py` and `.ipynb` files) in this repository are MIT licensed.
