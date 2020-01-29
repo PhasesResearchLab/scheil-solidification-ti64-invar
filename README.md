@@ -1,6 +1,6 @@
 ## Installing
 
-Follow the instructions for installing the `scheil` package in the [scheil documentation](http://scheil.readthedocs.io)
+Follow the instructions for installing the `scheil` package in the [scheil documentation](http://scheil.readthedocs.io). Requires `scheil >= 0.1.2`.
 
 ## Reproducing the results
 
